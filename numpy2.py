@@ -8,4 +8,4 @@ print(a/2)
 
 # question 2
 b=np.array([1, 2, 3, 6, 4, 5])
-print()
+print(b[::-1])
